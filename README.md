@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Kazi Sadia Anowar GitHub Banner" width="100%">
+</p>
+
 # Kazi Sadia Anowar
 
-## Applied AI • Advanced Data Analytics • Software Engineering • Motorsport Technology
+## Applied AI • Data Analytics • Software Engineering • Motorsport Technology
 
 I build AI systems, data platforms, and analytics products focused on motorsports, engineering, and real-world decision support.
 
